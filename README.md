@@ -10,7 +10,7 @@
 
 - 👯 I'm looking to collaborate on **Any Open Source Project**
 
-- 👨‍💻 All of my projects are available at [GitHub](github.com/zeeshanmahar007)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/zeeshanmahar007)
 
 - 📫 Reach me via [Email](mailto:mahar.zeeshan5994@gmail.com)
 
