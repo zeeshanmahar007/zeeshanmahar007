@@ -6,13 +6,13 @@
 
 - 🙋‍♂️ I'm currently DSC Lead at Developer Student Clubs - National University of Computer and Emerging Science powered by Google Developers.
 
-- 🌱 I'm currently learning **Machine Learning ,Flutter**
+- 🌱 I'm currently learning **Machine Learning ,Flutter**.
 
-- 👯 I'm looking to collaborate on **Any Open Source Project**
+- 👯 I'm looking to collaborate on **Any Open Source Project**.
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/zeeshanmahar007)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/zeeshanmahar007).
 
-- 📫 Reach me via [Email](mailto:mahar.zeeshan5994@gmail.com)
+- 📫 Reach me via [Email](mailto:mahar.zeeshan5994@gmail.com).
 
 
 ---
