@@ -32,6 +32,7 @@
   <a href="https://linkedin.com/in/zeeshanmahar007" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zeeshanmahar007" height="30" width="40" /></a>
   <a href="https://fb.com/maharzeeshan5994" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maharzeeshan5994" height="30" width="40" /></a>
   <a href="https://instagram.com/zeeshan_mahar007" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="zeeshan_mahar007" height="30" width="40" /></a>
+  <a href="https://medium.com/@zeeshanmahar007" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="zeeshanmahar007" height="30" width="40" /></a>
 </p>
 
 
