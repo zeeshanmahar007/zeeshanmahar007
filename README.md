@@ -35,7 +35,6 @@
   <a href="https://medium.com/@zeeshanmahar007" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="zeeshanmahar007" height="30" width="40" /></a>
 </p>
 
-
 <!-- ### Hi there 👋
 **zeeshanmahar007/zeeshanmahar007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
