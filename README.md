@@ -20,8 +20,8 @@
  <summary> 😇 <b>My GitHub Stats</b> </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=zeeshanmahar007&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanmahar007&hide=css,java,html&theme=tokyonight">
+  <img width="54%" src = "https://github-readme-stats.vercel.app/api?username=zeeshanmahar007&show_icons=true&theme=tokyonight">
+  <img width="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanmahar007&hide=css,java,html&theme=tokyonight&layout=compact">
 </p>
 </details>
 
