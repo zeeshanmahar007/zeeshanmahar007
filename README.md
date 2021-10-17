@@ -6,7 +6,7 @@
 
 - 🙋‍♂️ I'm currently DSC Lead at Developer Student Clubs - National University of Computer and Emerging Science, powered by Google Developers.
 
-- 🌱 I'm currently learning **Machine Learning and Flutter**.
+- 🌱 I'm currently learning **Machine Learning and Android**.
 
 - 👯 I'm looking to collaborate on **Any Open Source Project**.
 
